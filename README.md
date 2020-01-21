@@ -19,8 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 A Simple Flutter beginner Application that ends up being a quiz app.
 
 Content Learned:
-  Dart Language fundamentals
-  Flutter design basics and core features
-  Widgets and building custom Widgets
-  User event Reaction
+  Dart Language fundamentals,
+  Flutter design basics and core features,
+  Widgets and building custom Widgets,
+  User event Reaction,
   Widget types (Stateful & Stateless)
